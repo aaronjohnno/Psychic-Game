@@ -2,3 +2,23 @@
     text-align: center;
     background-color: gray; 
 }
+
+h4 {
+    color:lime;
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+.container {
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    margin-right: 500px;
+}
+
+#sig {
+    text-align: center;
+    margin-top: 40px;
+}
